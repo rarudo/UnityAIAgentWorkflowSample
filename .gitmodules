@@ -1,0 +1,3 @@
+[submodule "unity-cs-reference"]
+	path = unity-cs-reference
+	url = git@github.com:Unity-Technologies/UnityCsReference.git
